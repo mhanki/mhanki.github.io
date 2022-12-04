@@ -1,9 +1,9 @@
-import Project, { Props } from "./Project";
+import ProjectPreview, { Props } from "./ProjectPreview";
 
 const projects: Props[] = [
   {
     title: "Zen Focus",
-    url: "/#",
+    url: "/zen-focus",
     img: "./images/zen_focus.png"
   },
   {
@@ -24,7 +24,7 @@ function Portfolio() {
       <h1>Portfolio</h1>
       <hr></hr>
       {projects.map(({title, url, img}) => 
-        <Project title={title} url={url} img={img} />)}
+        <ProjectPreview title={title} url={url} img={img} />)}
     </section>
   )
 };
