@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './Header';
 import Portfolio from './Portfolio';
 import Project from './Project';
@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Portfolio />} />
-          <Route path="/zen-focus" element={<Project />} />
+          <Route path="/#/zen-focus" element={<Project />} />
         </Routes>
       </Router>
     </div>
