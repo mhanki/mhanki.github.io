@@ -3,7 +3,7 @@ import ProjectPreview, { Props } from "./ProjectPreview";
 const projects: Props[] = [
   {
     title: "Zen Focus",
-    url: "/zen-focus",
+    url: "/#/zen-focus",
     img: "./images/zen_focus.png"
   },
   {

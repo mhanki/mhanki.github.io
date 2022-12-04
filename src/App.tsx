@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Portfolio />} />
-          <Route path="/#/zen-focus" element={<Project />} />
+          <Route path="/zen-focus" element={<Project />} />
         </Routes>
       </Router>
     </div>
