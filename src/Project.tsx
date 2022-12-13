@@ -1,7 +1,6 @@
 function Project() {
   return (
     <section>
-
       <h1>Zen Focus</h1>
         <p>
           <a href="https://zen-focus.netlify.app/" rel="noreferrer" target="_blank">

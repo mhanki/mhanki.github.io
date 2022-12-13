@@ -3,12 +3,12 @@ function Header () {
     <header>
       <h1><a id="header-title" href="/">Meike Hankewicz</a></h1>
       
-      <img style={{ marginTop: '15px', borderRadius: '50%'}}  src="./images/logo.png" alt="Logo" />
+      <img style={{ marginTop: '15px', borderRadius: '50%'}}  src="./images/profile.jpg" alt="Logo" />
 
       <br/><br/>
 
       <p>Hi! My name is Meike. I'm a web developer from Germany. Here you can see a few of my latest projects.</p>
-      <p>If you want to connect with me, find me on LinkedIn or GitHub:</p>
+      <p>If you want to connect, find me on LinkedIn or GitHub:</p>
 
       <p className="view">
         <a href="https://www.linkedin.com/in/meike-h/" rel="noreferrer" target="_blank">

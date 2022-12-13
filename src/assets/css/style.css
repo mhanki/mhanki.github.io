@@ -189,6 +189,12 @@ strong {
   margin-top: 40px;
 }
 
+.preview-img{
+  height: 340px;
+  width: 500px;
+  object-fit: cover;
+}
+
 section {
   width:500px;
   float:right;
