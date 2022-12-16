@@ -3,7 +3,7 @@ import ProjectPreview, { Props } from "./ProjectPreview";
 const projects: Props[] = [
   {
     title: "Selenite (Desktop App)",
-    url: "/#",
+    url: "/#/selenite",
     img: "./images/selenite.png"
   },
   {

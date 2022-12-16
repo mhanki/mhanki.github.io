@@ -6,8 +6,6 @@ interface Props {
   img: string
 }
 
-
-
 function ProjectPreview({title, url, img}: Props) {
   React.useEffect(() => {
     window.scrollTo(0, 0);

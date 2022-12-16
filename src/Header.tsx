@@ -8,16 +8,16 @@ function Header () {
       <br/><br/>
 
       <p>Hi! My name is Meike. I'm a web developer from Germany. Here you can see a few of my latest projects.</p>
-      <p>If you want to connect, find me on LinkedIn or GitHub:</p>
+      <p>If you want to connect, find me on the following platforms:</p>
 
       <p className="view">
         <a href="https://www.linkedin.com/in/meike-h/" rel="noreferrer" target="_blank">
-          View My LinkedIn Profile
+          LinkedIn
         </a>
       </p>
       <p className="view">
         <a href="https://github.com/mhanki"  rel="noreferrer" target="_blank">
-          View My GitHub Profile
+          GitHub
         </a>
       </p>
     </header>
