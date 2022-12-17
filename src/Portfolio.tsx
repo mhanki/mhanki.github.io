@@ -6,31 +6,31 @@ const projects: Props[] = [
     url: "/#/selenite",
     img: "./images/selenite.png"
   },
-  {
+  /* {
     title: "Treasure Trove (API)",
     url: "/#",
     img: "./images/treasure-api.png"
-  },
+  }, */
   {
     title: "Zen Focus (Web App)",
     url: "/#/zen-focus",
     img: "./images/zen-focus.png"
   },
-  {
-    title: "Isue Tracker (Web App)",
+  /* {
+    title: "Issue Tracker (Web App)",
     url: "/#",
     img: "./images/issue-tracker.jpg"
-  },
+  }, */
   {
     title: "Clean React (CLI)",
-    url: "/#",
+    url: "/#/clean-react",
     img: "./images/clean-react.png"
   },
-  {
+  /* {
     title: "LVL UP (API)",
     url: "/#",
     img: "./images/lvlup-api.png"
-  }
+  } */
 ]
 
 function Portfolio() {
