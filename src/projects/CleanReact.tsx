@@ -18,7 +18,7 @@ const CleanReact: React.FC = () => {
             npm
           </Link>
           <span style={{ marginLeft: '15px' }}>
-            <Link url="https://github.com/Selenite-Player/Selenite">
+            <Link url="https://github.com/mhanki/Clean-React">
               Repository
             </Link>
           </span>
